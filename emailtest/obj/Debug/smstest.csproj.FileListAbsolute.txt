@@ -1,0 +1,11 @@
+D:\emailtest\emailtest\bin\Debug\emailtest.exe.config
+D:\emailtest\emailtest\bin\Debug\emailtest.exe
+D:\emailtest\emailtest\bin\Debug\emailtest.pdb
+D:\emailtest\emailtest\bin\Debug\MetroFramework.dll
+D:\emailtest\emailtest\bin\Debug\MetroFramework.Fonts.dll
+D:\emailtest\emailtest\obj\Debug\smstest.csprojResolveAssemblyReference.cache
+D:\emailtest\emailtest\obj\Debug\smstest.Form1.resources
+D:\emailtest\emailtest\obj\Debug\emailtest.Properties.Resources.resources
+D:\emailtest\emailtest\obj\Debug\smstest.csproj.GenerateResource.Cache
+D:\emailtest\emailtest\obj\Debug\emailtest.exe
+D:\emailtest\emailtest\obj\Debug\emailtest.pdb

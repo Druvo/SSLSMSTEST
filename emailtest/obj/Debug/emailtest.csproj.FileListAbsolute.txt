@@ -1,0 +1,30 @@
+c:\users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\bin\Debug\emailtest.exe.config
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\bin\Debug\emailtest.exe
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\bin\Debug\emailtest.pdb
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\obj\Debug\emailtest.Form1.resources
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\obj\Debug\emailtest.Properties.Resources.resources
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\obj\Debug\emailtest.csproj.GenerateResource.Cache
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\obj\Debug\emailtest.exe
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\emailtest\emailtest\obj\Debug\emailtest.pdb
+D:\emailtest\emailtest\bin\Debug\emailtest.exe.config
+D:\emailtest\emailtest\obj\Debug\emailtest.exe
+D:\emailtest\emailtest\obj\Debug\emailtest.pdb
+D:\emailtest\emailtest\bin\Debug\emailtest.exe
+D:\emailtest\emailtest\bin\Debug\emailtest.pdb
+D:\emailtest\emailtest\obj\Debug\emailtest.csprojResolveAssemblyReference.cache
+D:\emailtest\emailtest\obj\Debug\emailtest.Form1.resources
+D:\emailtest\emailtest\obj\Debug\emailtest.Properties.Resources.resources
+D:\emailtest\emailtest\obj\Debug\emailtest.csproj.GenerateResource.Cache
+D:\Projects\emailtest\emailtest\bin\Debug\emailtest.exe.config
+D:\Projects\emailtest\emailtest\bin\Debug\emailtest.exe
+D:\Projects\emailtest\emailtest\bin\Debug\emailtest.pdb
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.csproj.AssemblyReference.cache
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.Form1.resources
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.Properties.Resources.resources
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.csproj.GenerateResource.cache
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.csproj.CoreCompileInputs.cache
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.csproj.CopyComplete
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.exe
+D:\Projects\emailtest\emailtest\obj\Debug\emailtest.pdb
+D:\Projects\emailtest\emailtest\bin\Debug\MetroFramework.dll
+D:\Projects\emailtest\emailtest\bin\Debug\MetroFramework.Fonts.dll
