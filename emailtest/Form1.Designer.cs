@@ -156,7 +156,7 @@
             // metroTile1
             // 
             this.metroTile1.Location = new System.Drawing.Point(296, 259);
-            this.metroTile1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile1.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile1.Name = "metroTile1";
             this.metroTile1.Size = new System.Drawing.Size(58, 25);
             this.metroTile1.TabIndex = 22;
@@ -186,8 +186,8 @@
             this.Controls.Add(this.number);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Padding = new System.Windows.Forms.Padding(15, 49, 15, 16);
-            this.Text = "Email Test";
+            this.Padding = new System.Windows.Forms.Padding(15, 60, 15, 16);
+            this.Text = "SSL SMS Test";
             this.TextAlign = System.Windows.Forms.VisualStyles.HorizontalAlign.Center;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
